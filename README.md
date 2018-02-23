@@ -1,4 +1,4 @@
-﻿# Bancor Protocol Contracts v0.3 (alpha)
+﻿# Bancor Protocol Contracts v3.0 (Gold)
 
 Bancor Protocol™ is a standard for the creation of Smart Tokens™, cryptocurrencies with built-in convertibility directly through their smart contracts. Bancor utilizes an innovative token "Connector" method to enable formulaic price-calculation and continuous liquidity to/from all tokens in the Bancor Network™, without needing to match two parties in an exchange. Smart Tokens™ interconnect to form token liquidity networks, allowing user-generated cryptocurrencies to thrive. For more information, visit the [website](https://www.bancor.network) and read the Bancor Protocol™ [Whitepaper](https://www.bancor.network/whitepaper).
 
