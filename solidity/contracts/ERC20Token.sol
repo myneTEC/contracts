@@ -1,4 +1,4 @@
-pragma solidity ^0.4.18;
+pragma solidity ^0.5.0;
 import './Utils.sol';
 import './interfaces/IERC20Token.sol';
 
@@ -6,11 +6,11 @@ import './interfaces/IERC20Token.sol';
     ERC20 Standard Token implementation
 */
 contract ERC20Token is IERC20Token, Utils {
-    string public standard = 'Token 0.1';
-    string public name = '';
-    string public symbol = '';
+    string public standard = 'Token 1.0.1';
+    string public name = 'Banking-license';
+    string public symbol = 'USD|EUR';
     uint8 public decimals = 0;
-    uint256 public totalSupply = 0;
+    uint256 public totalSupply = 100000;
     mapping (address => uint256) public balanceOf;
     mapping (address => mapping (address => uint256)) public allowance;
 
